@@ -10,9 +10,9 @@ import (
 	"runtime/debug"
 	"sync"
 	"time"
-	. "v5sdk_go/config"
-	. "v5sdk_go/utils"
-	. "v5sdk_go/ws/wImpl"
+	. "github.com/intelligently/v5sdk_go/config"
+	. "github.com/intelligently/v5sdk_go/utils"
+	. "github.com/intelligently/v5sdk_go/ws/wImpl"
 
 	"github.com/gorilla/websocket"
 )
